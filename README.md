@@ -1,6 +1,5 @@
 # PredictingTaxiTips
-Data tidying 
-Data analysis
-ML
-Conclusion
-Citing sources
+Hosted the project on Github.
+link:  
+
+codingrex.github.io
